@@ -1,3 +1,9 @@
 flask
 flask-login
 flask-sqlalchemy
+werkzeug
+werkzeug-security
+datetime
+sqlalchemy
+sqlalchem.sql
+website
